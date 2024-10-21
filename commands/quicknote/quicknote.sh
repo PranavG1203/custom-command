@@ -7,3 +7,4 @@ fi
 NOTE=$1
 echo "$(date +'%Y-%m-%d %H:%M:%S') - $NOTE" >> ~/quicknotes.txt
 echo "Note added to ~/quicknotes.txt"
+echo "Made changes in this file."
